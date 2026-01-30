@@ -4,6 +4,8 @@
 
 Este repositório contém o código fonte e a fundamentação teórica para o estudo de caso sobre a aplicação de **Vetorização (Embedding)** e **RAG (Retrieval-Augmented Generation)** na interpretação de documentos contábeis brasileiros.
 
+Resultados publicados nesse artigo: https://medium.com/@lvmielke/a-ia-realmente-entende-a-contabilidade-brasileira-822d14a1b9a0?postPublishedType=initial
+
 ## 📄 Sobre o Projeto
 
 A Inteligência Artificial Generativa é excelente em criar textos fluídos, mas como garantir que ela entende a diferença técnica entre conceitos contábeis específicos?
