@@ -51,7 +51,7 @@ Uma métrica composta criada para facilitar a tomada de decisão.
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git](https://github.com/LucasMielke/vetorizacao_ia.git)
+    git clone [https://github.com/LucasMielke/vetorizacao_ia.git]
     ```
 2.  Instale as dependências
 3.  Execute o notebook para reproduzir os testes:
